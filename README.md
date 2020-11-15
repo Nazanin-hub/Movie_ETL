@@ -1,5 +1,3 @@
-# Movie_ETL1
-
 # Movies-ETL
 
 ## Project Overview
