@@ -18,7 +18,7 @@ Software: Python 3.8.3, Anaconda Navigator 1.9.6, Jupyter Notebook 6.0.3, Postgr
 
 ### Write an ETL Function to Read Three Data Files
 
-Using Python and Pandas to write a function that reads Wikipedia JSON, the Kaggle metadata and MovieLens csv files and created three separate DataFrames.
+Using Python and Pandas to write a function that reads Wikipedia JSON, the Kaggle metadata and MovieLens CSV files and created three separate DataFrames.
 
 ### Extract and Transform the Wikipedia Data
 
