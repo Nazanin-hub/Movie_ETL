@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The Amazing Prime Video team would like to develop an algorithm to predict which low budget movies being released will become popular. I was tasked to help one member of the Amazing Prime Video team creating the datasets for the hackathon. First, I extracted the data from Wikipedia data, Kaggle metadata, and the MovieLens rating data. Then, transform it into one clean data and Finally, load that dataset into a SQL table. For this analysis, I used the following breakdown:
+The Amazing Prime Video team would like to develop an algorithm to predict which low budget movies being released will become popular. I was tasked to help one member of the Amazing Prime Video team creating the datasets for the hackathon. First, I extracted the data from Wikipedia data, Kaggle metadata, and the MovieLens rating data. Then, transformed it into one clean data and Finally, loaded that dataset into a SQL table. For this analysis, I used the following breakdown:
 
  - Write an ETL Function to Read Three Data Files
  - Extract and Transform the Wikipedia Data
