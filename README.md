@@ -24,13 +24,13 @@ Using Python and Pandas to write a function that reads Wikipedia JSON, the Kaggl
 
 First, I extracted data from Wikipedia data. Then, I transformed and cleaned the Wikipedia data in the ETL function based on the following:
 
-  - cleaned and filtered data with list comprehensions
-  - created the clean movie function
-  - removed duplicates with regular expressions 
-  - removed columns with null values
-  - droped null values and converted data to string values
+  - Cleaned and filtered data with list comprehensions
+  - Created the clean movie function
+  - Removed duplicates with regular expressions 
+  - Removed columns with null values
+  - Droped null values and converted data to string values
   - Cleaned the box office, budget data, the release date, and the running time
-  - converted the cleaned Wikipedia data to a Pandas DataFrame
+  - Converted the cleaned Wikipedia data to a Pandas DataFrame
 
 ### Extract and Transform the Kaggle data
 
