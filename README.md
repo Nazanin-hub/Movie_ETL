@@ -28,7 +28,7 @@ First, I extracted data from Wikipedia data. Then, I transformed and cleaned the
   - Created the clean movie function
   - Removed duplicates with regular expressions 
   - Removed columns with null values
-  - Droped null values and converted data to string values
+  - Dropped null values and converted data to string values
   - Cleaned the box office, budget data, the release date, and the running time
   - Converted the cleaned Wikipedia data to a Pandas DataFrame
 
@@ -37,9 +37,9 @@ First, I extracted data from Wikipedia data. Then, I transformed and cleaned the
 First, I extracted and transformed the Kaggle metadata using the ETL function based on the following:
 
  - Cleaned the Kaggle metadata and converted the transformed data into the Kaggle DataFrame
- - Merged Wikipedia and Kaggle DataFrames with dropping unnecessary columns and using a function to fill in the missing Kaggle data to create the movies_df.
+ - Merged Wikipedia and Kaggle DataFrames by dropping unnecessary columns and using a function to fill in the missing Kaggle data to create the movies_df.
 
-Then, I extracted and transformed the MovieLens ratings data using the ETL function based the following:
+Then, I extracted and transformed the MovieLens ratings data using the ETL function based on the following:
 
  - cleaned the ratings counts and converted the transformed data into the cleaned ratings DataFrame
  - Merged movies_df DataFrame with the cleaned ratings DataFrame to create the movies_with_ratings_df DataFrame
