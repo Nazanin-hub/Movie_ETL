@@ -51,4 +51,6 @@ Using Python, Pandas, the ETL process, code refactoring, and PostgreSQL to add t
 
 ![](https://github.com/Nazanin-hub/Movie_ETL1/blob/main/Resources/movies_query.png)
 
+
+
 ![](https://github.com/Nazanin-hub/Movie_ETL1/blob/main/Resources/ratings_query.png)
