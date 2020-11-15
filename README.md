@@ -49,6 +49,6 @@ Then, I extracted and transformed the MovieLens ratings data using the ETL funct
 
 Using Python, Pandas, the ETL process, code refactoring, and PostgreSQL to add the movies_df DataFrame and MovieLens rating CSV data to a SQL database. The below SQL queries show the number of rows for the movies and ratings tables.
 
-![] (https://github.com/Nazanin-hub/Movie_ETL1/blob/main/Resources/movies_query.png)
+![](https://github.com/Nazanin-hub/Movie_ETL1/blob/main/Resources/movies_query.png)
 
-![] (https://github.com/Nazanin-hub/Movie_ETL1/blob/main/Resources/ratings_query.png)
+![](https://github.com/Nazanin-hub/Movie_ETL1/blob/main/Resources/ratings_query.png)
