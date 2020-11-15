@@ -45,7 +45,7 @@ Then, I extracted and transformed the MovieLens ratings data using the ETL funct
  - Merged movies_df DataFrame with the cleaned ratings DataFrame to create the movies_with_ratings_df DataFrame
  - Filled the empty values in the movies_with_ratings_df DataFrame with “0”
 
-### Create the Movie Database
+### Load data to a SQL database 
 
 Using Python, Pandas, the ETL process, code refactoring, and PostgreSQL to add the movies_df DataFrame and MovieLens rating CSV data to a SQL database. The below SQL queries show the number of rows for the movies and ratings tables.
 
