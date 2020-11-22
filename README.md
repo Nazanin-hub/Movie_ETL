@@ -12,6 +12,7 @@ The Amazing Prime Video team would like to develop an algorithm to predict which
 ## Resources
 
 Data Source: wikipedia-movies.json, movies_metadata.csv, ratings.csv
+
 Software: Python 3.8.3, Anaconda Navigator 1.9.6, Jupyter Notebook 6.0.3, PostgreSQL 11.9, pgAdmin 4
 
 ## Results
